@@ -12,7 +12,7 @@ class GlazerCalc
         Console.WriteLine(today.ToString("dd/MM/yyyy"));
         Console.WriteLine($"There are {daysToChristmas} days until Christmas!");
 
-        Console.WriteLine(5 / 2);
+        Console.WriteLine(3 / 2);
 
 
 
