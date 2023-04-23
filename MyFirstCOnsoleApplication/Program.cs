@@ -19,10 +19,10 @@ class GlazerCalc
         // Copied from the yellow book, not my code
         double width, height, woodLength, glassArea;
         string widthString, heightString;
-        // console.writeline("input the width");
+        Console.WriteLine("Input the width of your wood: ");
         widthString = Console.ReadLine();
         width = double.Parse(widthString);
-        // console.writeline("input the height");
+        Console.WriteLine("Input the height of your glass: ");
         heightString = Console.ReadLine();
         height = double.Parse(heightString);
         woodLength = 2 * (width + height) * 3.25;
