@@ -108,7 +108,7 @@ namespace MegaDesk___Greeff
             string name = nameBox.Text;
             DateTime date = DateTime.Now;
 
-            string info = $"{width1}\n{depth1}]\n{drawerCount}\n{material}\n{rushDays}\n{name}\n{date}";
+            string info = $"{width1}\n{depth1}\n{drawerCount}\n{material}\n{rushDays}\n{name}\n{date}";
             string file = "deskQuote.txt";
             File.WriteAllText(file, info);
             Desk desk = new Desk(width1, depth1, drawerCount, material);

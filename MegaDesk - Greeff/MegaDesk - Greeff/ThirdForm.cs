@@ -19,7 +19,7 @@ namespace MegaDesk___Greeff
             InitializeComponent();
         }
 
-        DeskQuote quote = SecondForm.quote;
+
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -83,6 +83,24 @@ namespace MegaDesk___Greeff
         }
 
         private void textBox6_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void loadButton_Click(object sender, EventArgs e)
+        {
+
+            string file = "deskQuote.txt";
+            
+
+            string str = File.ReadAllText(file);
+            infoBox.Text = str;
+
+
+
+        }
+
+        private void infoBox_Click(object sender, EventArgs e)
         {
 
         }
