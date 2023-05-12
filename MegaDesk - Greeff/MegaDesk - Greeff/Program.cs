@@ -3,7 +3,7 @@ namespace MegaDesk___Greeff
     internal static class Program
     {
         /// <summary>
-        ///  The main entry point for the application.
+        ///  The main entry point for the application. The main function. -- Emory
         /// </summary>
         [STAThread]
         static void Main()
