@@ -17,9 +17,13 @@ namespace MegaDesk___Greeff
         public ThirdForm()
         {
             InitializeComponent();
+            loadButton.Click += new EventHandler(loadButton_Click);
+            button2.Click += new EventHandler(button2_Click);
         }
 
-
+        private void Button2_Click(object? sender, EventArgs e) {
+            throw new NotImplementedException();
+        }
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -89,7 +93,6 @@ namespace MegaDesk___Greeff
 
         private void loadButton_Click(object sender, EventArgs e)
         {
-
             string file = "deskQuote.txt";
             
 
@@ -103,6 +106,13 @@ namespace MegaDesk___Greeff
         private void infoBox_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void searchButton_Click(object sender, EventArgs e) {
+            SearchForm searchForm = new SearchForm();
+            searchForm.Tag = this;
+            searchForm.Show(this);
+            Hide();
         }
     }
 }

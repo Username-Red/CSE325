@@ -18,3 +18,24 @@ C:\Users\User\OneDrive\Documents\CSE 325\MegaDesk - Greeff\MegaDesk - Greeff\obj
 C:\Users\User\OneDrive\Documents\CSE 325\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.SecondForm.resources
 C:\Users\User\OneDrive\Documents\CSE 325\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.ThirdForm.resources
 C:\Users\User\OneDrive\Documents\CSE 325\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.ForthForm.resources
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\bin\Debug\net6.0-windows\MegaDesk - Greeff.exe
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\bin\Debug\net6.0-windows\MegaDesk - Greeff.deps.json
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\bin\Debug\net6.0-windows\MegaDesk - Greeff.runtimeconfig.json
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\bin\Debug\net6.0-windows\MegaDesk - Greeff.dll
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\bin\Debug\net6.0-windows\MegaDesk - Greeff.pdb
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.csproj.AssemblyReference.cache
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.Form1.resources
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.ForthForm.resources
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.SearchForm.resources
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.SecondForm.resources
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk___Greeff.ThirdForm.resources
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.csproj.GenerateResource.cache
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.AssemblyInfoInputs.cache
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.AssemblyInfo.cs
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.csproj.CoreCompileInputs.cache
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.dll
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\refint\MegaDesk - Greeff.dll
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.pdb
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\MegaDesk - Greeff.genruntimeconfig.cache
+C:\Users\edhth\source\repos\megadesk\MegaDesk - Greeff\MegaDesk - Greeff\obj\Debug\net6.0-windows\ref\MegaDesk - Greeff.dll

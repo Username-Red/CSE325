@@ -26,9 +26,9 @@ namespace MegaDesk___Greeff
         }
         private void button3_Click(object sender, EventArgs e)
         {
-            ForthForm viewSecondForm = new ForthForm();
-            viewSecondForm.Tag = this;
-            viewSecondForm.Show(this);
+            SearchForm searchForm = new SearchForm();
+            searchForm.Tag = this;
+            searchForm.Show(this);
             Hide();
         }
 
